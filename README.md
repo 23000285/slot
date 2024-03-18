@@ -50,7 +50,7 @@ Execute the program using runserver command.
                 <tr bgcolor="bisque">
                     <th bgcolor="lawngreen">Monday</th>
                     <td colspan="2">FREE SLOT</td>
-		            <td>LUNCH</td>
+		    <td>LUNCH</td>
                     <td>WEB</td>
                     <td>FREE SLOT</td>
                 </tr>
@@ -59,7 +59,7 @@ Execute the program using runserver command.
                     <th bgcolor="lawngreen">Tuesday</th>
                     <td>CE</td>
                     <td>WEB</td>
-		            <td>LUNCH</td>
+		    <td>LUNCH</td>
                     <td>OS</td>
                     <td>FREE SLOT</td>
                 </tr>
@@ -68,34 +68,34 @@ Execute the program using runserver command.
                     <th bgcolor="lawngreen">Wednesday</th>
                     <td>WEB</td>
                     <td>AD-C</td>
-		            <td>LUNCH</td>
+		    <td>LUNCH</td>
                     <td colspan="2" align="center">FREE SLOT</td>
                 </tr>
                 
                 <tr bgcolor="bisque">
-                    <th bgcolor="lawngreen">Thursday</th>
+            <th bgcolor="lawngreen">Thursday</th>
                     <td>OS</td>
                     <td>PQM</td>
-		            <td>LUNCH</td>
+		    <td>LUNCH</td>
                     <td>ML</td>
                     <td align="center">CN</td>
                 </tr>
             
                 <tr bgcolor="bisque">
-		            <th bgcolor="lawngreen">Friday</th>
+		    <th bgcolor="lawngreen">Friday</th>
                     <td colspan="2">FREE SLOT</td>
-		            <td>LUNCH</td>
+		    <td>LUNCH</td>
                     <td>AD-C</td>
                     <td align="center">ML</td>
                 </tr>   
                 
                 <tr bgcolor="bisque">
-		            <th bgcolor="lawngreen">Satruday</th>
+		    <th bgcolor="lawngreen">Satruday</th>
                     <td>PQM</td>
                     <td>CE</td>
-		            <td>LUNCH</td>
+		    <td>LUNCH</td>
                     <td>CN</td>
-		            <td>FREE SLOT</td>
+		    <td>FREE SLOT</td>
                 </tr>
         </table>
 	<br>
