@@ -32,7 +32,7 @@ Execute the program using runserver command.
             My Time-Table
         </Title>
     </head>
-    <body align="Center">
+    <body align="Center" bgcolor="khaki">
         <img width="500" height="100" src="/static/logo.png">
 	<br>
 	<br>
@@ -47,55 +47,55 @@ Execute the program using runserver command.
                     <th>3-5</th>
                 </tr>
                 
-                <tr bgcolor="yellow">
+                <tr bgcolor="bisque">
                     <th bgcolor="lawngreen">Monday</th>
                     <td colspan="2">FREE SLOT</td>
-			        <td>LUNCH</td>
+		            <td>LUNCH</td>
                     <td>WEB</td>
                     <td>FREE SLOT</td>
                 </tr>
             
-                <tr bgcolor="yellow">
+                <tr bgcolor="bisque">
                     <th bgcolor="lawngreen">Tuesday</th>
                     <td>CE</td>
                     <td>WEB</td>
-			        <td>LUNCH</td>
+		            <td>LUNCH</td>
                     <td>OS</td>
                     <td>FREE SLOT</td>
                 </tr>
             
-                <tr bgcolor="yellow">
+                <tr bgcolor="bisque">
                     <th bgcolor="lawngreen">Wednesday</th>
                     <td>WEB</td>
                     <td>AD-C</td>
-			        <td>LUNCH</td>
+		            <td>LUNCH</td>
                     <td colspan="2" align="center">FREE SLOT</td>
                 </tr>
                 
-                <tr bgcolor="yellow">
+                <tr bgcolor="bisque">
                     <th bgcolor="lawngreen">Thursday</th>
                     <td>OS</td>
                     <td>PQM</td>
-			        <td>LUNCH</td>
+		            <td>LUNCH</td>
                     <td>ML</td>
                     <td align="center">CN</td>
                 </tr>
             
-                <tr bgcolor="yellow">
-			        <th bgcolor="lawngreen">Friday</th>
+                <tr bgcolor="bisque">
+		            <th bgcolor="lawngreen">Friday</th>
                     <td colspan="2">FREE SLOT</td>
-			        <td>LUNCH</td>
+		            <td>LUNCH</td>
                     <td>AD-C</td>
                     <td align="center">ML</td>
                 </tr>   
                 
-                <tr bgcolor="yellow">
-			        <th bgcolor="lawngreen">Satruday</th>
+                <tr bgcolor="bisque">
+		            <th bgcolor="lawngreen">Satruday</th>
                     <td>PQM</td>
                     <td>CE</td>
-			        <td>LUNCH</td>
+		            <td>LUNCH</td>
                     <td>CN</td>
-			        <td>FREE SLOT</td>
+		            <td>FREE SLOT</td>
                 </tr>
         </table>
 	<br>
@@ -152,14 +152,13 @@ Execute the program using runserver command.
         </table>
     </body>
 </html>
-
 ```
 
 ## OUTPUT
 
-![alt text](image-3.png)
+![alt text](<Screenshot 2024-03-18 195130.png>)
 
-![alt text](image-2.png)
+![alt text](<Screenshot 2024-03-18 194847.png>)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
