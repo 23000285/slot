@@ -107,37 +107,44 @@ Execute the program using runserver command.
                 <th>Subject Code</th>
                 <th>Subject Name</th>
             </tr>
-            <tr>
+
+            <tr align="center">
                 <td>1.</td>
                 <td>19AI414</td>
                 <td>Fundamentals of Web Application Development(FWARD)</td>
             </tr>
-            <tr>
+
+            <tr align="center">
                 <td>2.</td>
                 <td>19AI305</td>
                 <td>Advanced C Programming(AD-C)</td>
             </tr>
-            <tr>
+
+            <tr align="center">
                 <td>3.</td>
                 <td>19CS405</td>
                 <td>Operating System(OS)</td>
             </tr>
-            <tr>
+
+            <tr align="center">
                 <td>4.</td>
                 <td>19CS406</td>
                 <td>Computer Networks(CN)</td>
             </tr>
-            <tr>
+
+            <tr align="center">
                 <td>5.</td>
                 <td>19EN101</td>
                 <td>Communicative English(CE)</td>
             </tr>
-            <tr>
+
+            <tr align="center">
                 <td>6.</td>
                 <td>19MA222</td>
                 <td>Probability and Queueing Models(PQM)</td>
             </tr>
-            <tr>
+
+            <tr align="center">
                 <td>7.</td>
                 <td>19AI410</td>
                 <td>Introduction to Machine Learning(ML)</td>
@@ -150,9 +157,9 @@ Execute the program using runserver command.
 
 ## OUTPUT
 
-![alt text](image-1.png)
+![alt text](image-3.png)
 
-![alt text](image.png)
+![alt text](image-2.png)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
